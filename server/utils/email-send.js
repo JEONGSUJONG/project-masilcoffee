@@ -33,8 +33,19 @@ const sendMail = async (to, num) => {
   const mailOptions = {
     from: NAVER_EMAIL,
     to,
-    subject: "MasilCoffee: 인증 관련 메일 입니다.",
-    html: `<h1>아래 인증번호를 입력해주세요 \n</h1> <h3> [ ${num} ] </h3>`,
+    subject: "MASILCOFFEE: 인증 관련 메일 입니다.",
+    html: `
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #8B4513; padding: 30px;">
+  <div style="background-color: #fff; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #8B4513;">
+    <h1 style="color: #333; text-align: center;">MASILCOFFEE</h1>
+    <p style="color: #555; text-align: center;">아래 인증번호를 입력해주세요</p>
+    <div style="text-align: center; padding: 20px 0;">
+      <h2 style="color: #ff0000; font-size: 36px; margin: 0;">[ ${num} ]</h2>
+    </div>
+  </div>
+</div>
+
+  `,
   };
 
   try {
