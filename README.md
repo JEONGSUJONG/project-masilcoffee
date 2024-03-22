@@ -58,12 +58,15 @@
 ## 🔨 주요 기술
 
 **Programming Language**
+
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 **Frontend**
+
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/axios-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 **Backend**
+
 <img src="https://img.shields.io/badge/gpt-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/mongoose-F04D35?style=for-the-badge&logo=mongoose&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/naver SMTP-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
 **Backend - Node.js, Express.js**
@@ -119,8 +122,6 @@ server
 │ ├─ orderoption-schema.js
 │ ├─ product-schema.js
 │ └─ user-schema.js
-├─ package-lock.json
-├─ package.json
 ├─ routes
 │ ├─ board-router.js
 │ ├─ comment-router.js
@@ -139,9 +140,9 @@ server
 │ ├─ product-service.js
 │ └─ user-service.js
 └─ utils
-├─ email-send.js
-├─ jwt-token.js
-└─ pagination.js
+  ├─ email-send.js
+  ├─ jwt-token.js
+  └─ pagination.js
 ```
 
 ## 🗣 협업 환경
