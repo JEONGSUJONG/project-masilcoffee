@@ -6,19 +6,23 @@
 
 ## 👨‍💻 팀원 소개
 
-| FRONTEND | BACKEND |
-
+| FRONTEND                       | BACKEND |
 | ------------------------------ | ------- |
+| 김영준, 김다빈, 이유진, 손명화 | 정수종  |
 
-| 김영준, 김다빈, 이유진, 손명화 | 정수종 |
+<br>
 
 ## 📅 프로젝트 기간
 
 2023.11.13(Mon) ~ 2023.12.01 (총 3주)
 
+<br>
+
 ## 🌟 프로젝트 개요
 
 자신만의 커피 레시피를 만들어 자신의 꿀조합 레시피를 커뮤니티에 공유하고 다른 사용자들의 레시피를 볼 수 있는 사이트로 사용자들은 새로운 레시피 아이디어를 얻을 수 있는 커뮤니티 주문 사이트 입니다.
+
+<br>
 
 ## ✨ 프로젝트 핵심 기능
 
@@ -37,6 +41,8 @@
 #### 커뮤니티 API
 
 - 게시글과 댓글의 생성, 조회, 수정, 삭제 및 좋아요
+
+<br>
 
 ## 🔨 주요 기술
 
@@ -60,19 +66,27 @@
 
 - MongoDB를 사용하여 유연한 데이터 스토리지와 관리 기능 제공 및 S3 버킷을 통한 파일 저장 관리
 
+<br>
+
 ## 💄 디자인 시안
 
 ![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/6c744626-2c7a-41f4-8b5f-4fe7ef4de2e4)
 
 [🔗 피그마 링크](https://www.figma.com/file/1paJZikZlc8BgwFVQqupsd/MASILCOFFEE?type=design&node-id=0%3A1&mode=design&t=Z1txskYfSKjCl5yO-1)
 
+<br>
+
 ## 🔒 ERD
 
 ![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/5069edce-49a2-4663-be6e-3a24efe2e53a)
 
+<br>
+
 ## 📄 API 명세서
 
 [🔗 Postman 링크](https://orange-sunset-704837.postman.co/workspace/CafeWebSite~8450ad83-0986-4510-ab97-20bb86778bba/collection/30237851-9975c128-05c1-478f-b4f8-e521a3754654?action=share&creator=30237851)
+
+<br>
 
 ## ⚙️ 프로젝트 파일 구조
 
@@ -128,6 +142,8 @@
 ├─ jwt-token.js
 └─ pagination.js
 ```
+
+<br>
 
 ## 🗣 협업 환경
 
