@@ -6,9 +6,11 @@
 
 ## 👨‍💻 팀원 소개
 
-| FRONTEND                       | BACKEND |
+| FRONTEND | BACKEND |
+
 | ------------------------------ | ------- |
-| 김영준, 김다빈, 이유진, 손명화 | 정수종  |
+
+| 김영준, 김다빈, 이유진, 손명화 | 정수종 |
 
 ## 📅 프로젝트 기간
 
@@ -20,76 +22,57 @@
 
 ## ✨ 프로젝트 핵심 기능
 
-#### ☕ 주문
+#### 유저 관리 API
 
--
+- 회원가입, 로그인, 이메일 인증
 
-#### 💬 커뮤니티
+#### 제품 관리 API
 
-- 꿀조합 게시판
-  - 주문 시
+- 제품의 생성, 조회, 수정, 삭제 및 페이지네이션
 
-#### 🔎 Q&A 세션
+#### 주문 옵션 관리 API
 
-- Q&N 게시판을 통해 코치님들께 직접 질문하고, 답변을 받을 수 있습니다
+- 주문 옵션 생성, 조회, 수정, 삭제
 
-#### 🙌 프로젝트/스터디 모집 게시판
+#### 커뮤니티 API
 
-- 프로젝트나 스터디를 함께 할 팀원을 찾거나 프로젝트 아이디어를 공유할 수 있는 공간을 제공합니다
-
-#### ⚔ 프로필 관리
-
-- 사용자의 기술 스택, 경력, 교육 배경 등을 관리할 수 있는 개인 프로필 기능을 제공합니다
-
-## 🎵 서비스 화면
-
-### 🎺 로그인, 회원가입 페이지
-
-### 🎸 메인 페이지
-
-### 💾 마이 프로필 페이지
-
-### 🎧 게시물 상세, 수정 페이지(+ 댓글 기능)
-
-### 💬 게시물 작성 페이지
-
-### 🎹 관리자 페이지
+- 게시글과 댓글의 생성, 조회, 수정, 삭제 및 좋아요
 
 ## 🔨 주요 기술
 
 **Programming Language**
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img  src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/axios-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img  src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img  src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> <img  src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img  src="https://img.shields.io/badge/axios-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
 **Backend**
 
-<img src="https://img.shields.io/badge/gpt-412991?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/mongoose-F04D35?style=for-the-badge&logo=mongoose&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"> <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/naver SMTP-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+<img  src="https://img.shields.io/badge/gpt-412991?style=for-the-badge&logo=openai&logoColor=white"> <img  src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img  src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img  src="https://img.shields.io/badge/mongoose-F04D35?style=for-the-badge&logo=mongoose&logoColor=white"> <img  src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img  src="https://img.shields.io/badge/pm2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"> <img  src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img  src="https://img.shields.io/badge/naver SMTP-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 
 **Backend - Node.js, Express.js**
 
-- Node.js 및 Express.js를 활용한 REST API 개발.
+- Node.js 및 Express.js를 활용한 RESTful API 개발.
 
 **Database - MongoDB, AmazonS3bucket**
 
-- MongoDB를 사용하여 유연한 데이터 스토리지와 관리 기능 제공.
+- MongoDB를 사용하여 유연한 데이터 스토리지와 관리 기능 제공 및 S3 버킷을 통한 파일 저장 관리
 
 ## 💄 디자인 시안
 
-[FIGMA]
+![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/6c744626-2c7a-41f4-8b5f-4fe7ef4de2e4)
+
+[🔗 피그마 링크](https://www.figma.com/file/1paJZikZlc8BgwFVQqupsd/MASILCOFFEE?type=design&node-id=0%3A1&mode=design&t=Z1txskYfSKjCl5yO-1)
 
 ## 🔒 ERD
 
-## 📄 아키텍처 구성도
-
-## 📄 컴포넌트 명세서
+![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/5069edce-49a2-4663-be6e-3a24efe2e53a)
 
 ## 📄 API 명세서
 
-[API 명세서 Link to Postman](https://orange-sunset-704837.postman.co/workspace/CafeWebSite~8450ad83-0986-4510-ab97-20bb86778bba/collection/30237851-9975c128-05c1-478f-b4f8-e521a3754654?action=share&creator=30237851)
+[🔗 Postman 링크](https://orange-sunset-704837.postman.co/workspace/CafeWebSite~8450ad83-0986-4510-ab97-20bb86778bba/collection/30237851-9975c128-05c1-478f-b4f8-e521a3754654?action=share&creator=30237851)
 
 ## ⚙️ 프로젝트 파일 구조
 
@@ -97,12 +80,13 @@
 
 ```
 
+
+
 ```
 
 **Back-end**
 
 ```
-server
 ├─ .env
 ├─ app.js
 ├─ middlewares
@@ -140,9 +124,21 @@ server
 │ ├─ product-service.js
 │ └─ user-service.js
 └─ utils
-  ├─ email-send.js
-  ├─ jwt-token.js
-  └─ pagination.js
+├─ email-send.js
+├─ jwt-token.js
+└─ pagination.js
 ```
 
 ## 🗣 협업 환경
+
+- Discord
+
+  - 프로젝트가 진행되는 3주간 매일 아침 10시에 스크럼을 진행했습니다.
+
+- Gitlab
+
+  - 코딩 컨벤션을 준수하며 프로젝트를 진행하였습니다
+  - Merge Request를 요청하고 팀원들과 코드리뷰를 진행하였습니다
+
+- Figma
+  - 웹 페이지의 디자인 와이어프레임, 시안을 제작하였습니다
