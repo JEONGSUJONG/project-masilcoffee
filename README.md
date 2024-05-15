@@ -1,6 +1,6 @@
 # ☕ 마실커피
 
-![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/8f5fddf1-2dfd-446c-9a8c-8167add99503)
+![image](https://github.com/JEONGSUJONG/JEONGSUJONG/assets/168960634/8ee1e56b-9a10-47ad-b167-310916570faf)
 
 자신만의 꿀조합을 만들어서 공유하고 주문하세요!
 
@@ -70,15 +70,13 @@
 
 ## 💄 디자인 시안
 
-![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/6c744626-2c7a-41f4-8b5f-4fe7ef4de2e4)
+![image](https://github.com/JEONGSUJONG/JEONGSUJONG/assets/168960634/fa03c25d-2488-48bc-82ad-235ec2a82ebd)
 
 [🔗 피그마 링크](https://www.figma.com/file/1paJZikZlc8BgwFVQqupsd/MASILCOFFEE?type=design&node-id=0%3A1&mode=design&t=Z1txskYfSKjCl5yO-1)
 
 <br>
 
 ## 🔒 ERD
-
-![image](https://github.com/JEONGSUJONG/github-mainpage/assets/142254876/5069edce-49a2-4663-be6e-3a24efe2e53a)
 
 <br>
 
